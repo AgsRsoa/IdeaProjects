@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e6fbfc8-94ec-4c9d-ab1a-1648a72cdcd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2e63clyozPIEh0rZvspUjPLX3R7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BookingPlane">
+    <configuration name="Avion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Avion" />
+      <module name="Exercice Fonction Avion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingPlane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookingPlane" />
+      <module name="Exercice Fonction Avion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookingPlane" />
+        <item itemvalue="Application.Avion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e6fbfc8-94ec-4c9d-ab1a-1648a72cdcd6" name="Default Changelist" comment="" />
+      <created>1711211282831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711211282831</updated>
+      <workItem from="1711211286695" duration="463000" />
+      <workItem from="1711212592749" duration="162000" />
+      <workItem from="1711214291132" duration="283000" />
+      <workItem from="1711271578254" duration="2034000" />
+      <workItem from="1711352101665" duration="307000" />
+      <workItem from="1711526387608" duration="132000" />
+      <workItem from="1711558116865" duration="38000" />
+      <workItem from="1711564359093" duration="865000" />
+      <workItem from="1711817032805" duration="12089000" />
+      <workItem from="1712422203528" duration="113000" />
+      <workItem from="1712423321095" duration="511000" />
+      <workItem from="1712596499243" duration="235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1712418852328">
+      <screen x="0" y="25" width="1280" height="716" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1711999785633" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.25.1280.716@0.25.1280.716" timestamp="1712418852328" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.25.1280.720@0.25.1280.720" timestamp="1711306855685" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1712418852327">
+      <screen x="0" y="25" width="1280" height="716" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1711999785630" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.25.1280.716@0.25.1280.716" timestamp="1712418852327" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.25.1280.720@0.25.1280.720" timestamp="1711306855683" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1712418852326">
+      <screen x="0" y="25" width="1280" height="716" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1711999785622" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.25.1280.716@0.25.1280.716" timestamp="1712418852326" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.25.1280.720@0.25.1280.720" timestamp="1711306855683" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1712418852328">
+      <screen x="0" y="25" width="1280" height="716" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1711999785632" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.25.1280.716@0.25.1280.716" timestamp="1712418852328" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.25.1280.720@0.25.1280.720" timestamp="1711306855684" />
+    <state x="690" y="1509" key="new project wizard" timestamp="1712240831691">
+      <screen x="540" y="1440" width="1440" height="900" />
+    </state>
+    <state x="690" y="1509" key="new project wizard/540.1440.1440.900/0.25.2560.1415@540.1440.1440.900" timestamp="1712240831691" />
+  </component>
+</project>

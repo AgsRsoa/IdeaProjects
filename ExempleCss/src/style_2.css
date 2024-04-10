@@ -1,0 +1,42 @@
+    *{
+        font-family: AppleMyungjo , Helvetica, sans-serif;
+        color: darkred;
+        text-align: center;
+    }
+
+    body{
+        width: 960px;
+        margin:0 auto; /*marge 0 en haut en bas et deuxieme valeur gauche/droite*/
+    }
+
+    li{
+       display:inline; /*après chaque elements ne passe pas à la ligne*/
+        margin: 5px;
+    }
+
+    /*
+    Enleve le soulignement
+    a{
+        text-decoration : none;
+    }
+    */
+    section{
+        display:flex;
+        background-color: blue;
+    }
+
+    article{
+        background-color: aqua;
+        width:300px;
+        margin:20px;
+        padding: 20px;
+    }
+
+    .col2{
+        flex-basis:60%;
+    }
+
+    footer, header{
+        background-color: slategray;
+        margin: 20px;
+    }

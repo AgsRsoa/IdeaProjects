@@ -1,0 +1,12 @@
+.rollover{
+    /*donner la taille du bloc pour que ça cache la partie en trop */
+    width: 570px;
+    height: 64px; /*hauteur de l'image divisée par 2 */
+    background :gray url('./button.png') 0px 0px no-repeat; /*longueur 570xlargeur 128*/
+}
+
+
+.rollover:hover{
+    background-position: 0px -64px;
+
+}

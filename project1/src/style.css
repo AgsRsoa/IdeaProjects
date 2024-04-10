@@ -1,0 +1,29 @@
+*{
+    font-family: AppleMyungjo;
+    text-align: center;
+}
+footer, header{
+    background-color: slategray;
+    height: 100px;
+}
+
+li{
+    display: inline;
+    margin:50px;
+}
+
+.container{
+    display:flex;
+}
+
+div.container > div {
+    margin:20px;
+    background-color: aqua;
+    width: 300px;
+}
+
+img{
+    width: 30px;
+}
+
+

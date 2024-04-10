@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<style>
+    div{
+        background-color: antiquewhite;
+    }
+/*#special{
+    color: blue;
+}*/
+.hello{
+    background-color: green;
+}
+    p.hello{
+        background-color: azure;
+    }
+    /*ordre d'apparation du code puis le plus specifique '*/
+
+   /* div div{
+        background-color: green;
+    }*/
+div#special div{ /*toutes les div a l'intérieur de la div special*/
+
+}
+
+    div .hello {
+    background-color: green;
+    }
+    #special > div { /*1er enfant*/
+
+    }
+
+    div.hello + p { /*1er p après div fermée*/
+
+    }
+
+    div.hello ~p {
+        /*TOUS les p */
+    }
+</style>
+</head>
+<body>
+<h1>Titre</h1>
+<div id="special">
+    du texte
+
+<p class="hello">un paragraphe</p>
+<p>un paragraphe</p>
+<div class="hello">
+    div 1
+    <div class="hello">
+        div 2
+    </div>
+</div>
+</div>
+</body>
+</html>
